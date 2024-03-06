@@ -1,3 +1,3 @@
 # demo
 
-demo or intoe to git 
+demo or intro to git 
